@@ -11,3 +11,4 @@ Git gitignore changes.
 Git dev brach changes.
 
 Git master branch changes.
+Git master branch v1.3 chagnes.
